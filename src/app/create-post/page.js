@@ -8,4 +8,4 @@ export default function CreateProject() {
         <Form/>
     </div>
   )
-}
+};
